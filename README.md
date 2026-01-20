@@ -22,7 +22,7 @@ interests:
   - Building scalable web applications
   - Learning new technologies
   - Writing clean, maintainable code
-
+```
 ##  Languages Experience
 
 <p align="left">
