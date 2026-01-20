@@ -22,6 +22,9 @@ interests:
   - Building scalable web applications
   - Learning new technologies
   - Writing clean, maintainable code
+Career Goals:
+  - Find a job with a mix of responsibilities to limit fatigue
+  - Work with a team and network with others to expand my reach
 ```
 ##  Languages Experience
 
