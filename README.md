@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Kyler%20Hanson&fontSize=40&animation=fadeIn" />
+</p>
 
-<!--
-**kyhans07/kyhans07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Web Systems Analyst • Developer • Problem Solver
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+```yaml
+name: Kyler Hanson
+major: Web Systems Analyst
+focus: Full-stack development, systems analysis, and modern web technologies
+experience:
+  - Experience across many programming languages
+  - Web development (front-end & back-end)
+  - System analysis and problem-solving
+interests:
+  - Building scalable web applications
+  - Learning new technologies
+  - Writing clean, maintainable code
