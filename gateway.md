@@ -7,7 +7,7 @@
 
 # 🌐 Professional Portfolio Gateway
 
-Welcome to my central project hub. This document serves as a directory for my work in Web Systems Analysis, showcasing full-stack development, and database management.
+Welcome to my central project hub. This document serves as a directory for my work in Web Systems Analysis, showcasing full-stack development, database management, and UI/UX precision.
 
 ---
 
@@ -16,20 +16,23 @@ Welcome to my central project hub. This document serves as a directory for my wo
 | Repository | Primary Tech | Category |
 | :--- | :--- | :--- |
 | [🎥 Movie Rater](#movie-rater) | JavaScript / CSS | CSC465 Advanced Web Development |
-| [⚾ MLB Player Search](#mlb-player-search) | Node.js / Express | Personal Project |
-| [📈 Retirement Projector](#retirement-projector) | JavaScript | Web Systems Analysis |
-| [🏢 NENTEC Database](#nentec-database) | SQL / Node.js | Database Management |
+| [⚾ MLB Player Search](#mlb-player-search) | Node.js / Express | CSC465 Advanced Web Development |
+| [🔥 Thermal Guessing Game](#thermal-guessing-game) | JavaScript / Logic | CSC465 Advanced Web Development |
+| [🧢 Baseball FAQ](#baseball-faq) | JavaScript / DOM | CSC465 Advanced Web Development |
+| [🗂️ Flashcard App](#flashcard-app) | JavaScript / DOM | CSC465 Advanced Web Development |
+| [📈 Retirement Projector](#retirement-projector) | JavaScript | CSC465 Advanced Web Development |
+| [🏢 NENTEC Database](#nentec-database) | SQL / Node.js | Seminar Group |
 
 ---
 
-## 🎥 Movie Rater
+## 🎥 Movie Tracker
 <a name="movie-rater"></a>
 
 ### 📝 Summary
 A dynamic application focused on cinematic tracking. Originally conceived as a task manager, this project was pivoted to a movie rating system to demonstrate adaptability in project requirements and precise design control.
 
 *   **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-*   **Key Learning Concepts:** State management, scope pivoting, and standard CSS layout control (replacing Tailwind for precision).
+*   **Key Learning Concepts:** State management, scope pivoting, and standard CSS layout control.
 *   **Status:** ✅ Completed
 *   **Type:** Course Project (Instructor: Debbie Johnson)
 
@@ -47,10 +50,61 @@ A full-stack integration that pulls live statistics from the MLB API. This proje
 
 *   **Tech Stack:** ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 *   **Key Learning Concepts:** REST API integration, asynchronous middleware, and client-server separation.
-*   **Status:** ✅ Completed
-*   **Type:** Self-Directed Project
+*   **Status:** 🛠️ Maintenance
+*   **Type:** Course Project (Instructor: Debbie Johnson)
 
 [**Explore Repository ↗**](https://github.com/kyhans07/MLB_API)
+
+[TOP ↑](#-project-directory)
+
+---
+
+## 🔥 Thermal Guessing Game
+<a name="thermal-guessing-game"></a>
+
+### 📝 Summary
+A web-based logic game that provides real-time "thermal" feedback based on a user's proximity to a hidden number. It includes a robust history log and dynamic "Best Score" tracking using session persistence.
+
+*   **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+*   **Key Learning Concepts:** Mathematical absolute distance logic (`Math.abs`), keyboard event listening (Enter key support), and tracking high scores across sessions.
+*   **Status:** ✅ Completed
+*   **Type:** Course Project (Instructor: Debbie Johnson)
+
+[**Explore Repository ↗**](https://github.com/kyhans07/Ch5-Assignment-Hot-Cold-)
+
+[TOP ↑](#-project-directory)
+
+---
+
+## 🧢 Baseball FAQ
+<a name="baseball-faq"></a>
+
+### 📝 Summary
+An interactive, dynamic FAQ page that utilizes an accordion-style interface. This project features high-level DOM manipulation where clicking a question updates a primary feature image via data attributes.
+
+*   **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+*   **Key Learning Concepts:** Accordion logic (exclusive focus), `data-img` attribute handling, and auto-reset image logic.
+*   **Status:** ✅ Completed
+*   **Type:** Course Project (Instructor: Debbie Johnson)
+
+[**Explore Repository ↗**](https://github.com/kyhans07/Smartwatch-FAQ-)
+
+[TOP ↑](#-project-directory)
+
+---
+
+## 🗂️ Flashcard App
+<a name="flashcard-app"></a>
+
+### 📝 Summary
+A web-based study tool designed for managing digital flashcards. Features rigorous data validation, automatic text formatting, and a state-based quiz mode for interactive learning.
+
+*   **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![DOM](https://img.shields.io/badge/DOM-Manipulation-orange?style=flat-square)
+*   **Key Learning Concepts:** Event handling with `preventDefault()`, block-scoping, and iterating through arrays with `for...in` loops.
+*   **Status:** ✅ Completed
+*   **Type:** Course Project (Instructor: Debbie Johnson)
+
+[**Explore Repository ↗**](https://github.com/kyhans07/Chapter-3-4-assignment)
 
 [TOP ↑](#-project-directory)
 
@@ -65,7 +119,7 @@ A financial utility that calculates and visualizes live yearly projections. It u
 *   **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 *   **Key Learning Concepts:** Data persistence via Local Storage and mathematical modeling in JS.
 *   **Status:** ✅ Completed
-*   **Type:** Academic Assignment
+*   **Type:** Course Project (Instructor: Debbie Johnson)
 
 [**Explore Repository ↗**](https://github.com/kyhans07/Retirement-Countdown-ch8-9)
 
@@ -77,12 +131,12 @@ A financial utility that calculates and visualizes live yearly projections. It u
 <a name="nentec-database"></a>
 
 ### 📝 Summary
-A 23-hour comprehensive development lifecycle project for a sports recreation center. This repository documents the journey from wireframes and ERDs to a functional database system.
+A 23-hour comprehensive development lifecycle project for a sports recreation center. Documents the journey from wireframes and ERDs to a functional database system.
 
 *   **Tech Stack:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 *   **Key Learning Concepts:** Database schema design, CRUD operations, and full-cycle project documentation.
 *   **Status:** ✅ Completed
-*   **Type:** Core Academic Project
+*   **Type:** Group Semester Project
 
 [**Explore Repository ↗**](https://github.com/kyhans07/SeminarGroupProject)
 
