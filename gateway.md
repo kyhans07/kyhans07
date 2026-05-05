@@ -30,7 +30,8 @@ Welcome to my central project hub. This document serves as a directory for my wo
 
 ### 📝 Summary
 A dynamic application focused on cinematic tracking. Originally conceived as a task manager, this project was pivoted to a movie rating system to demonstrate adaptability in project requirements and precise design control.
-
+*   **Visual Preview:** 
+    ![Movie Tracker Demo](assets/movie-tracker-demo.gif)
 *   **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 *   **Key Learning Concepts:** State management, scope pivoting, and standard CSS layout control.
 *   **Status:** ✅ Completed
@@ -48,6 +49,8 @@ A dynamic application focused on cinematic tracking. Originally conceived as a t
 ### 📝 Summary
 A full-stack integration that pulls live statistics from the MLB API. This project highlights a professional layered architecture and the ability to handle complex external datasets.
 
+*   **Visual Preview:** 
+    <img src="assets/Ohtani.png" width="45%" /> <img src="assets/Trout.png" width="45%" />
 *   **Tech Stack:** ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 *   **Key Learning Concepts:** REST API integration, asynchronous middleware, and client-server separation.
 *   **Status:** 🛠️ Maintenance
@@ -65,6 +68,8 @@ A full-stack integration that pulls live statistics from the MLB API. This proje
 ### 📝 Summary
 A web-based logic game that provides real-time "thermal" feedback based on a user's proximity to a hidden number. It includes a robust history log and dynamic "Best Score" tracking using session persistence.
 
+*   **Visual Preview:** 
+    <img src="assets/Thermal1.png" width="45%" /> <img src="assets/Thermal2.png" width="45%" />
 *   **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 *   **Key Learning Concepts:** Mathematical absolute distance logic (`Math.abs`), keyboard event listening (Enter key support), and tracking high scores across sessions.
 *   **Status:** ✅ Completed
@@ -82,6 +87,8 @@ A web-based logic game that provides real-time "thermal" feedback based on a use
 ### 📝 Summary
 An interactive, dynamic FAQ page that utilizes an accordion-style interface. This project features high-level DOM manipulation where clicking a question updates a primary feature image via data attributes.
 
+*   **Visual Preview:** 
+    <img src="assets/BaseballFAQ.jpg" width="30%" /> <img src="assets/BaseballFAQ2.jpg" width="30%" /> <img src="assets/BaseballFAQ3.jpg" width="30%" />
 *   **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 *   **Key Learning Concepts:** Accordion logic (exclusive focus), `data-img` attribute handling, and auto-reset image logic.
 *   **Status:** ✅ Completed
@@ -99,6 +106,8 @@ An interactive, dynamic FAQ page that utilizes an accordion-style interface. Thi
 ### 📝 Summary
 A web-based study tool designed for managing digital flashcards. Features rigorous data validation, automatic text formatting, and a state-based quiz mode for interactive learning.
 
+*   **Visual Preview:** 
+    <img src="assets/flashcards1.png" width="18%" /> <img src="assets/flashcards2.png" width="18%" /> <img src="assets/flashcards3.png" width="18%" /> <img src="assets/flashcards4.png" width="18%" /> <img src="assets/flashcards5.png" width="18%" />
 *   **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![DOM](https://img.shields.io/badge/DOM-Manipulation-orange?style=flat-square)
 *   **Key Learning Concepts:** Event handling with `preventDefault()`, block-scoping, and iterating through arrays with `for...in` loops.
 *   **Status:** ✅ Completed
@@ -116,6 +125,8 @@ A web-based study tool designed for managing digital flashcards. Features rigoro
 ### 📝 Summary
 A financial utility that calculates and visualizes live yearly projections. It uses client-side logic to provide immediate feedback on retirement goals.
 
+*   **Visual Preview:** 
+    ![Retirement Projector Demo](assets/retirement_gif.gif)
 *   **Tech Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 *   **Key Learning Concepts:** Data persistence via Local Storage and mathematical modeling in JS.
 *   **Status:** ✅ Completed
@@ -133,6 +144,8 @@ A financial utility that calculates and visualizes live yearly projections. It u
 ### 📝 Summary
 A 23-hour comprehensive development lifecycle project for a sports recreation center. Documents the journey from wireframes and ERDs to a functional database system.
 
+*   **Visual Preview:** 
+    ![NETEC Preview](assets/NETECH.png)
 *   **Tech Stack:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 *   **Key Learning Concepts:** Database schema design, CRUD operations, and full-cycle project documentation.
 *   **Status:** ✅ Completed
