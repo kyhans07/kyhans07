@@ -7,7 +7,7 @@
 
 # 🌐 Professional Portfolio Gateway
 
-Welcome to my central project hub. This document serves as a directory for my work in Web Systems Analysis, showcasing full-stack development, database management, and UI/UX precision.
+Welcome to my central project hub. This document serves as a directory for my work in Web Systems Analysis, showcasing full-stack development, and database management.
 
 ---
 
